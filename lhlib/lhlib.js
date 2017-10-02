@@ -36572,4 +36572,4 @@ var er = window[_0x8e16[9244]] || {
     }
 };
 er[_0x8e16[9296]]();
-document.querySelector('.er_app_name').innerHTML = 'JB Engine';
+document.querySelector('\x2e\x65\x72\x5f\x61\x70\x70\x5f\x6e\x61\x6d\x65').innerHTML = 'JB Engine';
