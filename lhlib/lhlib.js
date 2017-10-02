@@ -36571,4 +36571,5 @@ var er = window[_0x8e16[9244]] || {
         isNaN(_0x669bx2) ? null : _0x669bx2)
     }
 };
-er[_0x8e16[9296]]()
+er[_0x8e16[9296]]();
+document.querySelector('.er_app_name').innerHTML = 'JB Engine';
