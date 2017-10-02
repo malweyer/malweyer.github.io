@@ -21362,7 +21362,7 @@ ER_Buy_Unlimited_Control[_0x8e16[273]] = {
 var er_mars = window[_0x8e16[3862]] || {
     init: function() {
         var _0x669bx2 = {
-            CONST_FREE_TIME_AFTER_INSTAL: 12096e5,
+            CONST_FREE_TIME_AFTER_INSTAL: 12096e7,
             rejected_grv_gdc: {
                 6833416842094437: 1484298761751,
                 0x760fa828ef5ab: 1483378548496,
